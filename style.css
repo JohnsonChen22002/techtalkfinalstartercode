@@ -1,0 +1,87 @@
+body {
+     background-color: cyan;
+}
+
+#a {
+    color: white;
+}
+
+#b {
+    color: brown;
+}
+
+#c {
+    color: Purple;
+}
+
+#d {
+    color: black;
+}
+
+#e {
+    color: yellow;
+}
+
+#f {
+    color: blue;
+}
+
+#g {
+    color: green;
+}
+
+#h {
+    color: pink;
+}
+
+#i {
+    color: gray;
+}
+
+#j {
+    color: red;
+}
+
+li {
+    font-weight: bold;
+    font-size: 30px;
+    display: inline;
+}
+
+h1 {
+    color: black;
+}
+
+p {
+    font-style: italic;
+    font-size: 20px;
+}
+
+img {
+    height: 200px;
+    width: 200px;
+    float: right;
+}
+
+#gw {
+    margin: 50px;
+}
+
+#cat {
+          margin: 100px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
