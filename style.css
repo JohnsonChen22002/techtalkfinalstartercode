@@ -72,7 +72,65 @@ img {
     
 }
 
+.col-xs-1 {
+    background-color:Orange;
+    border: solid;
+}
 
+.col-xs-2 {
+    background-color:yellow  ;
+    border: solid;
+}
+
+.col-xs-3 {
+    background-color:orangered ;
+    border: solid;
+}
+
+.col-xs-4 {
+    background-color:cyan ;
+    border: solid;
+}
+
+.col-xs-5 {
+    background-color:blue;
+    border: solid;
+}
+
+.col-xs-6 {
+    background-color: red ;
+    border: solid;
+}
+
+.col-xs-7 {
+    background-color: brown;
+    border: solid;
+}
+
+.col-xs-8 {
+    background-color:LightSeaGreen ;
+    border: solid;
+}
+
+.col-xs-9 {
+    background-color:black;
+    border: solid;
+}
+
+.col-xs-10 {
+    background-color:brown;
+    border: solid;
+}
+
+.col-xs-11 {
+    background-color:white;
+    border: solid;
+}
+
+.col-xs-12 {
+    background-color:magenta;
+    border: solid;
+}
 
 
 
